@@ -1,0 +1,15 @@
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: "Asap", sans-serif;
+}
+
+.card-design {
+  margin-top: 12px !important;
+}
+.stars {
+  border-style: solid;
+}
+.issues {
+  border-style: solid;
+}
